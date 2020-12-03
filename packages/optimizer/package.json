@@ -32,7 +32,7 @@
     "@ampproject/toolbox-core": "^2.5.4",
     "@ampproject/toolbox-runtime-version": "^2.5.4",
     "@ampproject/toolbox-script-csp": "^2.5.4",
-    "@ampproject/toolbox-validator-rules": "^2.5.4",
+    "@ampproject/toolbox-validator-rules": "^2.7.1",
     "abort-controller": "3.0.0",
     "cross-fetch": "3.0.5",
     "cssnano": "4.1.10",
