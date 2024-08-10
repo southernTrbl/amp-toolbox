@@ -15,7 +15,7 @@
     "@ampproject/toolbox-cache-url": "^2.5.4",
     "amphtml-validator": "1.0.31",
     "chalk": "4.1.0",
-    "cheerio": "1.0.0-rc.3",
+    "cheerio": "1.0.0",
     "commander": "5.1.0",
     "debug": "4.1.1",
     "execa": "4.0.2",
